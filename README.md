@@ -6,11 +6,11 @@ You Only Grasp Once: A Smart Agricultural Gripper with Multimodal Actuation for 
 You Only Grasp Once (YOGO) is a human-inspired robotic grasping framework designed for delicate agricultural products such as strawberries.
 It integrates:
 
-    -A hybrid-actuated, compliant multi-finger gripper
+-A hybrid-actuated, compliant multi-finger gripper
 
-    *An eye-in-hand multi-view perception system
+*An eye-in-hand multi-view perception system
 
-    +A digital-twin simulation pipeline for grasp planning and force prediction.
++A digital-twin simulation pipeline for grasp planning and force prediction.
 
 This project demonstrates how perception-guided planning and hybrid compliant actuation can reduce fruit damage, improve grasp reliability, and support scalable robotic harvesting.
 
