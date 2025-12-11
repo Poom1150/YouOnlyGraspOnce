@@ -19,10 +19,14 @@ This project demonstrates how perception-guided planning and hybrid compliant ac
 ## Key Features
 
 ### Finger-eyes coordinate
--Hybrid actuation:
+- Hybrid actuation:
 
-    *Pneumatic cylinder for synchronized grasping
+    * Pneumatic cylinder for synchronized grasping
 
-    +Servo motors for independent finger orientation
+    * Servo motors for independent finger orientation
+
+- Very low camera occlusion (5.09%) compared to Fin-Ray and conventional pneumatic grippers (29–36%)
+
+![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/occlurasion.jpg) 
 
 [test video](https://youtu.be/UAfFhFwuvHg?si=p-djF8oyGXz64RDJ)
