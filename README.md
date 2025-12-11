@@ -41,4 +41,21 @@ This project demonstrates how perception-guided planning and hybrid compliant ac
 
 ![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/wiring.png)
 
-[test video](https://youtu.be/UAfFhFwuvHg?si=p-djF8oyGXz64RDJ)
+### Digital-Twin Grasp Planning
+
+- Built using CoppeliaSim and a MATLAB multibody model.<br>
+    - Pre-simulates:<br>
+    - Trajectories<br>
+    - Contact forces<br>
+    - Force imbalance<br>
+    - Grasp feasibility<br>
+
+![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/digitalTwin.png)
+
+### Real-World Demonstration
+
+- Implemented on a UR3 robotic arm with URScript.<br>
+- Fully autonomous pipeline:<brt>
+    - perception → trajectory generation → grasp → lift → transport → place.
+
+[Real-World Demonstration clip](https://youtu.be/ECwY2gjdoHY?si=Z7r2SNXlO6_OIzbq)
