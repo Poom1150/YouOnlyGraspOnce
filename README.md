@@ -29,4 +29,14 @@ This project demonstrates how perception-guided planning and hybrid compliant ac
 
 ![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/occlurasion.jpg) 
 
+### Multi-View Vision System
+
+- Eye-in-hand camera generates multi-view observations.
+
+- Extracts centroid, extremal points, pose, and visible geometry for grasp selection.
+
+- Supports grasp planning even under partial occlusions.
+
+![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/processDiagram.png)
+
 [test video](https://youtu.be/UAfFhFwuvHg?si=p-djF8oyGXz64RDJ)
