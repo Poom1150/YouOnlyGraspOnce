@@ -14,7 +14,7 @@ It integrates:
 
 This project demonstrates how perception-guided planning and hybrid compliant actuation can reduce fruit damage, improve grasp reliability, and support scalable robotic harvesting.
 
-![image](multi_view_img.jpg)
+![image](D:\Senior_Project\forceTest\YouOnlyGraspOnce\Images\multi_view_img.jpg)
 
 ## Key Features
 
