@@ -58,4 +58,5 @@ This project demonstrates how perception-guided planning and hybrid compliant ac
 - Fully autonomous pipeline:<brt>
     - perception → trajectory generation → grasp → lift → transport → place.
 
+![image](https://github.com/Poom1150/YouOnlyGraspOnce/blob/main/Images/realworld_implementation.png)
 [Real-World Demonstration clip](https://youtu.be/ECwY2gjdoHY?si=Z7r2SNXlO6_OIzbq)
